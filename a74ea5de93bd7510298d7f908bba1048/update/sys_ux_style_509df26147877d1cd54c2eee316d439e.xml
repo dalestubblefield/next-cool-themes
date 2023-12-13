@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="INSERT_OR_UPDATE">
+        <name>Miami Vice</name>
+        <style>{&#13;
+    "base": {&#13;
+&#13;
+        "--now-color--primary": "11, 210, 211",&#13;
+        "--now-color--primary-0": "252, 198, 230",&#13;
+        "--now-color--primary-1": "249, 144, 232",&#13;
+        "--now-color--primary-2": "245, 115, 220",&#13;
+        "--now-color--primary-3": "240, 85, 205",&#13;
+&#13;
+&#13;
+        "--now-color--secondary": "11, 210, 211",&#13;
+        "--now-color--secondary-0": "252, 198, 230",&#13;
+        "--now-color--secondary-1": "249, 144, 232",&#13;
+        "--now-color--secondary-2": "245, 115, 220",&#13;
+        "--now-color--secondary-3": "240, 85, 205",&#13;
+        &#13;
+        "--now-unified-nav_header--background-color": "11, 210, 211",&#13;
+        "--now-unified-nav_header--color": "0,0,0",&#13;
+        "--now-unified-nav_menu-item--color": "0,0,0",&#13;
+        &#13;
+        "--now-color--neutral": "11, 210, 211",&#13;
+                &#13;
+        "--now-color_selection--primary": "11, 210, 211",&#13;
+        &#13;
+        "--now-tabs--color--selected": "0,0,0",&#13;
+        "--now-tabs--color--hover": "0,0,0",&#13;
+        &#13;
+        "--now-color_selection--secondary": "250, 128, 87",&#13;
+        &#13;
+        "--now-color--interactive": "79,82,189",&#13;
+        "--now-color--link": "60,89,231",&#13;
+        "--now-color--focus": "60,89,231",&#13;
+        "--now-color_alert--critical": "255,51,75",&#13;
+        "--now-color_alert--high": "253,151,0",&#13;
+        "--now-color_alert--warning": "240,224,0",&#13;
+        "--now-color_alert--moderate": "139,107,255",&#13;
+        "--now-color_alert--info": "56,170,244",&#13;
+        "--now-color_alert--positive": "81,174,0",&#13;
+        "--now-color_alert--low": "150,152,164",&#13;
+        &#13;
+        "--now-color_surface--brand": "79,82,189",&#13;
+        &#13;
+        "--now-color_chrome--brand": "0, 182, 183", &#13;
+        &#13;
+        "--now-color_chrome--divider": "249, 144, 232",&#13;
+        &#13;
+        "--now-color_grouped--blue": "103,211,230",&#13;
+        "--now-color_grouped--brown": "211,166,117",&#13;
+        "--now-color_grouped--gray": "163,171,172",&#13;
+        "--now-color_grouped--green": "81,185,98",&#13;
+        "--now-color_grouped--green-yellow": "200,218,110",&#13;
+        "--now-color_grouped--magenta": "232,105,191",&#13;
+        "--now-color_grouped--orange": "255,140,114",&#13;
+        "--now-color_grouped--pink": "224,128,160",&#13;
+        "--now-color_grouped--purple": "189,122,234",&#13;
+        "--now-color_grouped--teal": "81,194,194",&#13;
+        "--now-color_grouped--yellow": "255,198,81",&#13;
+        &#13;
+        "--now-login--background-color": "11, 210, 211",&#13;
+        "--now-login_mountain--primary--fill-color": "249, 144, 232",&#13;
+        "--now-login_mountain--secondary--fill-color" : "31, 112, 160",&#13;
+        "--now-login_mountain--secondary--stroke-color": "250, 128, 87"&#13;
+    }&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-11 17:04:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>509df26147877d1cd54c2eee316d439e</sys_id>
+        <sys_mod_count>52</sys_mod_count>
+        <sys_name>Miami Vice</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_ux_style_509df26147877d1cd54c2eee316d439e</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2023-12-12 19:07:01</sys_updated_on>
+        <type>variant</type>
+    </sys_ux_style>
+</record_update>

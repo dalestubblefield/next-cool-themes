@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="INSERT_OR_UPDATE">
+        <name>Blue</name>
+        <style>{&#13;
+    "base": {&#13;
+        "--now-color--neutral": "78, 86, 99",&#13;
+        "--now-color--primary": "31, 112, 160",&#13;
+        "--now-color--secondary": "25, 89, 128",&#13;
+        "--now-color_selection--primary": "30,133,109",&#13;
+        "--now-color_selection--secondary": "25, 89, 128",&#13;
+        "--now-color--interactive": "31, 112, 160",&#13;
+        "--now-color--link": "1,119,142",&#13;
+        "--now-color--focus": "1,119,142",&#13;
+        "--now-color_focus-ring": "63,94,223",&#13;
+        "--now-color_focus-ring_shadow": "252, 252, 252",&#13;
+        "--now-color_alert--critical": "200,60,54",&#13;
+        "--now-color_alert--high": "221,145,34",&#13;
+        "--now-color_alert--warning": "210,195,0",&#13;
+        "--now-color_alert--moderate": "84,86,207",&#13;
+        "--now-color_alert--info": "14,120,196",&#13;
+        "--now-color_alert--positive": "37,131,43",&#13;
+        "--now-color_alert--positive-0": "202, 223, 192",&#13;
+        "--now-color_alert--positive-1": "126, 177, 101",&#13;
+        "--now-color_alert--low": "102,102,102",&#13;
+        "--now-color_surface--brand": "31, 112, 160",&#13;
+        "--now-color_surface--brand-2": "173, 211, 197",&#13;
+        "--now-color_surface--brand-1": "212, 233, 226",&#13;
+        "--now-color_chrome--brand": "31, 112, 160",&#13;
+        "--now-color_chrome--divider": "31, 112, 160",&#13;
+        "--now-color_secondary-nav--brand": "78, 86, 99",&#13;
+        "--now-color_secondary-nav--divider": "78, 86, 99",&#13;
+        "--now-color_background--primary": "255, 255, 255",&#13;
+        "--now-color_background--secondary": "242, 243, 242",&#13;
+        "--now-color_background--tertiary": "217, 218, 217",&#13;
+        "--now-color_surface--neutral": "0,117,74",&#13;
+        "--now-color_divider--primary": "193,197,204",&#13;
+        "--now-color_divider--secondary": "211,214,219",&#13;
+        "--now-color_divider--tertiary": "227,229,233",&#13;
+        "--now-color_surface--divider": "76,88,90",&#13;
+        "--now-color_text--primary": "22,25,31",&#13;
+        "--now-color_text--secondary": "70,77,90",&#13;
+        "--now-color_text--tertiary": "111,117,130",&#13;
+        "--now-color_border--primary": "144,149,160",&#13;
+        "--now-color_border--secondary": "177,181,190",&#13;
+        "--now-color_border--tertiary": "211,214,219",&#13;
+        "--now-color_grouped--blue": "120,176,204",&#13;
+        "--now-color_grouped--brown": "156,138,119",&#13;
+        "--now-color_grouped--gray": "139,145,150",&#13;
+        "--now-color_grouped--green": "147,170,125",&#13;
+        "--now-color_grouped--green-yellow": "154,173,94",&#13;
+        "--now-color_grouped--magenta": "203,121,193",&#13;
+        "--now-color_grouped--orange": "215,129,106",&#13;
+        "--now-color_grouped--pink": "203,121,143",&#13;
+        "--now-color_grouped--purple": "181,155,209",&#13;
+        "--now-color_grouped--teal": "104,174,163",&#13;
+        "--now-color_grouped--yellow": "240,207,101",&#13;
+        "-now-color_selection--primary": "31, 112, 160",&#13;
+        "--now-form-field--background-color--readonly": "228, 230, 234",&#13;
+        "--now-login--background-color": "31, 112, 160",&#13;
+        "--now-login_mountain--primary--fill-color": "25, 89, 128",&#13;
+        "--now-login_mountain--secondary--fill-color" : "31, 112, 160",&#13;
+        "--now-login_mountain--secondary--stroke-color": "31, 112, 160"&#13;
+    }&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-11 21:55:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7e408cfd4743755cd54c2eee316d43a0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Blue</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_ux_style_7e408cfd4743755cd54c2eee316d43a0</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2023-12-12 17:26:33</sys_updated_on>
+        <type>variant</type>
+    </sys_ux_style>
+</record_update>

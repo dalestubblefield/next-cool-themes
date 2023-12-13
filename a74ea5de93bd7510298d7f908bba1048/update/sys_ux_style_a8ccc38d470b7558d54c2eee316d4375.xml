@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="INSERT_OR_UPDATE">
+        <name>Mobile Colors Default (DaleNow)</name>
+        <style>{&#13;
+    "nativeMobile": {&#13;
+        "Brand": "11, 210, 211",&#13;
+        "Primary": "11, 210, 211",&#13;
+        "Secondary": "31,132,118",&#13;
+        "Tertiary": "41,62,64",&#13;
+        "Positive": "59,127,0",&#13;
+        "Destructive": "200,60,54",&#13;
+        "Navigation Bar Selected": "--now-color--primary-1",&#13;
+        "Quick Action Background": "--now-color--primary-1",&#13;
+        "Primary Swipe Action": "--now-color--primary-1",&#13;
+        "Secondary Swipe Action": "--now-color--secondary-3",&#13;
+        "Tertiary Swipe Action": "--now-color_grouped--gray-4",&#13;
+        "Positive Swipe Action": "--now-color_alert--positive-3",&#13;
+        "Destructive Swipe Action": "--now-color_alert--critical-3",&#13;
+        "Text Primary": "--now-color_text--primary",&#13;
+        "Text Secondary": "--now-color_text--secondary",&#13;
+        "Text Tertiary": "--now-color_text--tertiary",&#13;
+        "Text Actionable": "--now-color_text--primary-actionable",&#13;
+        "Screen Header Text": "--now-color--neutral-0",&#13;
+        "Background Primary": "--now-color_background--primary",&#13;
+        "Background Secondary": "--now-color_background--secondary",&#13;
+        "Background Tertiary": "--now-color_background--tertiary",&#13;
+        "Background Primary Actionable": "--now-color_background--primary-actionable",&#13;
+        "Background Secondary Actionable": "--now-color_background--secondary-actionable",&#13;
+        "Background Tertiary Actionable": "--now-color_background--tertiary-actionable",&#13;
+        "Brand Background": "--now-color--primary-0",&#13;
+        "Work Note Background": "--now-color_grouped--yellow-0",&#13;
+        "Screen Header Background": "--now-color--neutral-0",&#13;
+        "Separator Primary": "--now-color_divider--primary",&#13;
+        "Separator Secondary": "--now-color_divider--secondary",&#13;
+        "Separator Tertiary": "--now-color_divider--tertiary",&#13;
+        "Divider": "--now-color_surface--divider-1",&#13;
+        "Border": "--now-color_border--tertiary",&#13;
+        "Shadow": "--now-color--neutral-18",&#13;
+        "Navigation": "--now-color_border--tertiary-actionable",&#13;
+        "Mandatory": "--now-color_alert--critical-2",&#13;
+        "Link Primary": "--now-color--link-2",&#13;
+        "Link Secondary": "--now-color--link-3",&#13;
+        "Notification": "--now-color_alert--critical-3",&#13;
+        "Work Note Dot": "--now-color_grouped--yellow-2",&#13;
+        "Image Overlay": "--now-color--neutral-0",&#13;
+        "Alert-Critical-4": "--now-color_alert--critical-4",&#13;
+        "Alert-Critical-3": "--now-color_alert--critical-3",&#13;
+        "Alert-Critical-2": "--now-color_alert--critical-2",&#13;
+        "Alert-Critical-0": "--now-color_alert--critical-0",&#13;
+        "Alert-High-4": "--now-color_alert--high-4",&#13;
+        "Alert-High-3": "--now-color_alert--high-3",&#13;
+        "Alert-High-2": "--now-color_alert--high-2",&#13;
+        "Alert-High-0": "--now-color_alert--high-0",&#13;
+        "Alert-Warning-4": "--now-color_alert--warning-4",&#13;
+        "Alert-Warning-3": "--now-color_alert--warning-3",&#13;
+        "Alert-Warning-2": "--now-color_alert--warning-2",&#13;
+        "Alert-Warning-0": "--now-color_alert--warning-0",&#13;
+        "Alert-Moderate-4": "--now-color_alert--moderate-4",&#13;
+        "Alert-Moderate-3": "--now-color_alert--moderate-3",&#13;
+        "Alert-Moderate-2": "--now-color_alert--moderate-2",&#13;
+        "Alert-Moderate-0": "--now-color_alert--moderate-0",&#13;
+        "Alert-Info-4": "--now-color_alert--info-4",&#13;
+        "Alert-Info-3": "--now-color_alert--info-3",&#13;
+        "Alert-Info-2": "--now-color_alert--info-2",&#13;
+        "Alert-Info-0": "--now-color_alert--info-0",&#13;
+        "Alert-Positive-4": "--now-color_alert--positive-4",&#13;
+        "Alert-Positive-3": "--now-color_alert--positive-3",&#13;
+        "Alert-Positive-2": "--now-color_alert--positive-2",&#13;
+        "Alert-Positive-0": "--now-color_alert--positive-0",&#13;
+        "Alert-Low-4": "--now-color_alert--low-4",&#13;
+        "Alert-Low-3": "--now-color_alert--low-3",&#13;
+        "Alert-Low-2": "--now-color_alert--low-2",&#13;
+        "Alert-Low-0": "--now-color_alert--low-0",&#13;
+        "Alert-Disabled Background": "--now-color_background--secondary",&#13;
+        "Alert-Disabled Text": "--now-color_text--tertiary",&#13;
+        "Presence-Available": "--now-color_presence--available",&#13;
+        "Presence-Offline": "--now-color_presence--offline",&#13;
+        "Highlight Purple": "--now-color_grouped--purple-0",&#13;
+        "Highlight Yellow": "--now-color_grouped--yellow-0",&#13;
+        "Highlight Green": "--now-color_grouped--green-0",&#13;
+        "Highlight Brown": "--now-color_grouped--brown-0",&#13;
+        "Highlight Blue": "--now-color_grouped--blue-0",&#13;
+        "Highlight Pink": "--now-color_grouped--pink-0",&#13;
+        "Highlight Gray": "--now-color_grouped--gray-0",&#13;
+        "Splash Screen": "3,45,66"&#13;
+    }&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-10 04:53:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a8ccc38d470b7558d54c2eee316d4375</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Mobile Colors Default (DaleNow)</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_ux_style_a8ccc38d470b7558d54c2eee316d4375</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2023-12-12 19:22:32</sys_updated_on>
+        <type>core</type>
+    </sys_ux_style>
+</record_update>
