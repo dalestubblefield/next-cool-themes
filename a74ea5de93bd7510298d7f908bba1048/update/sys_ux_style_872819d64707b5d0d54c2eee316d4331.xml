@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="INSERT_OR_UPDATE">
+        <name>Purple</name>
+        <style>{&#13;
+    "base": {        &#13;
+        "--now-color--neutral": "27,49,69",&#13;
+        "--now-color--primary": "127, 44, 141",&#13;
+        "--now-color--secondary": "127, 44, 141",&#13;
+        "--now-color_chrome--brand": "127, 44, 141"&#13;
+    },&#13;
+    "properties": {&#13;
+    }&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-13 17:36:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>872819d64707b5d0d54c2eee316d4331</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Purple</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_ux_style_872819d64707b5d0d54c2eee316d4331</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2023-12-13 17:37:22</sys_updated_on>
+        <type>variant</type>
+    </sys_ux_style>
+</record_update>
