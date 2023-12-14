@@ -2,6 +2,14 @@
 
 *Sample themes for Next Experience*
 
+## Installation
+1. Go to **All** >> **System Applications** >> **Studio**.
+2. Click **Import from Source Control**.
+   * URL: `https://github.com/dalestubblefield/next-cool-themes.git`
+   * Credential: (You'll need to setup a GitHub credential)
+3. Click **Import**. 
+
+
 ## Setup
 1. Go to **Next Cool Themes** >> **Themes**
 
