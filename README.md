@@ -24,3 +24,17 @@
 ## CAUTION!
 
 If the property does not exist, follow the directions on the Properties page to create it. 
+
+## How to Use
+
+1. Click your avatar in the top-right, then click **Preferences**.
+
+![image](https://github.com/dalestubblefield/next-cool-themes/assets/994677/2ab395bf-d16d-40da-a40f-1aa3cd8706da)
+
+2. Click Theme.
+
+![image](https://github.com/dalestubblefield/next-cool-themes/assets/994677/ebae7436-2dfe-49e6-b98e-2133ecbdd39c)
+
+3. Select a cool theme.
+
+![image](https://github.com/dalestubblefield/next-cool-themes/assets/994677/f25c28b1-04d6-4d9d-96e8-0f294322c658)
