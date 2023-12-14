@@ -1,6 +1,6 @@
 # Next Experience Cool Themes
 
-## Sample themes for Next Experience
+*Sample themes for Next Experience*
 
 ## Setup
 1. Go to the app menu
