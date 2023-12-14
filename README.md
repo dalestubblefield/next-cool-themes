@@ -19,6 +19,8 @@
 
 ![image](https://github.com/dalestubblefield/next-cool-themes/assets/994677/a5c5efc8-b9e5-4fa4-95ca-37c0370a2e6d)
 
+6. Click Save. 
+
 ## CAUTION!
 
 If the property does not exist, follow the directions on the Properties page to create it. 
