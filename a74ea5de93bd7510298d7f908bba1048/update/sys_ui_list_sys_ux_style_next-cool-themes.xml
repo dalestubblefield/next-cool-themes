@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_ux_style" version="2" view="next-cool-themes">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sys_ux_style" element="NULL" name="sys_ux_style" parent="NULL" relationship="NULL" sys_domain="global" view="ceba1128471b79d0d54c2eee316d43b1">dcdadd68475b79d0d54c2eee316d43e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 17:34:20</sys_created_on>
+            <sys_id>d8dadd68475b79d0d54c2eee316d43e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 17:34:20</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="sys_ux_style" element="NULL" name="sys_ux_style" parent="NULL" relationship="NULL" sys_domain="global" view="ceba1128471b79d0d54c2eee316d43b1">dcdadd68475b79d0d54c2eee316d43e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 17:34:20</sys_created_on>
+            <sys_id>dcdadd68475b79d0d54c2eee316d43e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 17:34:20</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_scope</element>
+            <list_id display_value="sys_ux_style" element="NULL" name="sys_ux_style" parent="NULL" relationship="NULL" sys_domain="global" view="ceba1128471b79d0d54c2eee316d43b1">dcdadd68475b79d0d54c2eee316d43e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 17:34:20</sys_created_on>
+            <sys_id>d0dadd68475b79d0d54c2eee316d43e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 17:34:20</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="sys_ux_style" element="NULL" name="sys_ux_style" parent="NULL" relationship="NULL" sys_domain="global" view="ceba1128471b79d0d54c2eee316d43b1">dcdadd68475b79d0d54c2eee316d43e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 17:34:20</sys_created_on>
+            <sys_id>d4dadd68475b79d0d54c2eee316d43e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 17:34:20</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_ux_style</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 17:34:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dcdadd68475b79d0d54c2eee316d43e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_ux_style</sys_name>
+            <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+            <sys_update_name>sys_ui_list_sys_ux_style_next-cool-themes</sys_update_name>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 17:34:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="next-cool-themes" name="next-cool-themes">ceba1128471b79d0d54c2eee316d43b1</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
