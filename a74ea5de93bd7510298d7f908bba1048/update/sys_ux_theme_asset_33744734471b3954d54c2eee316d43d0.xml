@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>now-next-experience-logo-dark-pink</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-21 19:54:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>33744734471b3954d54c2eee316d43d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now-next-experience-logo-dark-pink</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_33744734471b3954d54c2eee316d43d0</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2023-12-21 19:54:47</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <encryption_context/>
+        <file_name>now-next-experience-logo-dark-pink.svg</file_name>
+        <hash>02c83cd91c4269fa18af4aa36c89acf2aef869f1f04a85687e44878011dd137b</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>6782</size_bytes>
+        <size_compressed>2864</size_compressed>
+        <state>available</state>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-21 19:54:43</sys_created_on>
+        <sys_id>a6844734471b3954d54c2eee316d43c3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-21 19:54:44</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>33744734471b3954d54c2eee316d43d0</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="now-next-experience-logo-dark-pink.svg" sys_id="a6844734471b3954d54c2eee316d43c3">a6844734471b3954d54c2eee316d43c3</sys_attachment>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-21 19:54:43</sys_created_on>
+        <sys_id>e6844734471b3954d54c2eee316d43c3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3808</length>
+        <position>1</position>
+        <sys_attachment display_value="now-next-experience-logo-dark-pink.svg" sys_id="a6844734471b3954d54c2eee316d43c3">a6844734471b3954d54c2eee316d43c3</sys_attachment>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-21 19:54:43</sys_created_on>
+        <sys_id>6a844734471b3954d54c2eee316d43c3</sys_id>
+    </sys_attachment_doc>
+</record_update>

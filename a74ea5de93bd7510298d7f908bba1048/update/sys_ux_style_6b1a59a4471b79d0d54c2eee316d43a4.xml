@@ -15,16 +15,16 @@
         "--now-color_selection--primary-3": "77,24,53",&#13;
         "--now-color_selection--primary-4": "51,16,35",&#13;
 &#13;
-        "--now-color_brand--secondary": "102,32,70",&#13;
-        "--now-color--secondary-0": "215,197,207",&#13;
-        "--now-color--secondary-1": "102,32,70",&#13;
-        "--now-color--secondary-2": "69,22,48",&#13;
-        "--now-color--secondary-3": "36,11,25",        &#13;
-        "--now-color_selection--secondary-0": "246,244,245",&#13;
-        "--now-color_selection--secondary-1": "234,229,231",&#13;
-        "--now-color_selection--secondary-2": "221,213,217",&#13;
-        "--now-color_selection--secondary-3": "150,145,148",&#13;
-        "--now-color_selection--secondary-4": "77,75,76",&#13;
+        "--now-color_brand--secondary": "89,24,33",&#13;
+        "--now-color--secondary-0": "255,207,213",&#13;
+        "--now-color--secondary-1": "254, 90, 127",&#13;
+        "--now-color--secondary-2": "173,47,63",&#13;
+        "--now-color--secondary-3": "89,24,33",&#13;
+        "--now-color_selection--secondary-0": "232,222,227",&#13;
+        "--now-color_selection--secondary-1": "168,128,150",&#13;
+        "--now-color_selection--secondary-2": "102,32,70",&#13;
+        "--now-color_selection--secondary-3": "77,24,53",&#13;
+        "--now-color_selection--secondary-4": "51,16,35",&#13;
 &#13;
         "--now-color_brand--neutral": "178,72,123",&#13;
         "--now-color--neutral-0": "255,255,255",&#13;
@@ -266,7 +266,8 @@
 &#13;
         "--now-color_focus-ring_shadow": "255,255,255",&#13;
         "--now-color_focus-ring": "66,98,254"&#13;
-    }&#13;
+   },&#13;
+  "properties": {}&#13;
 }</style>
         <sys_class_name>sys_ux_style</sys_class_name>
         <sys_created_by>dale.stubblefield</sys_created_by>
@@ -274,7 +275,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6b1a59a4471b79d0d54c2eee316d43a4</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Pink</sys_name>
         <sys_overrides/>
         <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
@@ -282,7 +283,7 @@
         <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
         <sys_update_name>sys_ux_style_6b1a59a4471b79d0d54c2eee316d43a4</sys_update_name>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2023-12-20 17:49:02</sys_updated_on>
+        <sys_updated_on>2023-12-21 19:41:05</sys_updated_on>
         <type>variant</type>
     </sys_ux_style>
 </record_update>
