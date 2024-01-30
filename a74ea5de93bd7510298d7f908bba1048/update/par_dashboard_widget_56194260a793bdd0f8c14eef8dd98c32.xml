@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">d61942602393bdd0b4a9607fb5aeb633</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"sys_ux_style","fixedQuery":"sys_scope=a74ea5de93bd7510298d7f908bba1048^ORsys_scope=d7487d7598251972e4da6cebf1abfb2d^type=variant","listTitle":"Variants","columns":"name,sys_scope,sys_updated_on","query":"ORDERBYname","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":true,"hideRefreshButton":false,"hideInlineEditing":true,"refreshRequested":"","noDebounce":"","maxColumns":5,"limit":15}</component_props>
+        <h>30</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-20 20:56:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56194260a793bdd0f8c14eef8dd98c32</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>par_dashboard_widget_56194260a793bdd0f8c14eef8dd98c32</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2023-12-20 21:59:23</sys_updated_on>
+        <visualization/>
+        <w>23</w>
+        <widget_props/>
+        <x>25</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

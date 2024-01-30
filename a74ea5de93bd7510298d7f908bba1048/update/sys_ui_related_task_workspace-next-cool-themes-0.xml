@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="task" version="2" view="workspace-next-cool-themes-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Task - Workspace Next Cool Themes 0" name="task" related_list="NULL" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">44290e604793bdd0d54c2eee316d4359</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 20:56:39</sys_created_on>
+            <sys_id>08290e604793bdd0d54c2eee316d435a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 20:56:39</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Task - Workspace Next Cool Themes 0</calculated_name>
+            <filter/>
+            <name>task</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 20:56:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44290e604793bdd0d54c2eee316d4359</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Task - Workspace Next Cool Themes 0</sys_name>
+            <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+            <sys_update_name>sys_ui_related_task_workspace-next-cool-themes-0</sys_update_name>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 20:56:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Next Cool Themes 0" name="workspace-next-cool-themes-0">d61942601193bdd0b31d5a4bd2ba4130</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

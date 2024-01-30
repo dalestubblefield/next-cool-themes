@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b78c0aa447d7bdd0d54c2eee316d439c" sys_domain="global" table="incident_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 21:11:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f38c0aa447d7bdd0d54c2eee316d43a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident_task" name="incident_task" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">b78c0aa447d7bdd0d54c2eee316d439c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="incident_task" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">3f8c0aa447d7bdd0d54c2eee316d439f</sys_ui_section>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 21:11:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 21:11:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b8c0aa447d7bdd0d54c2eee316d43f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident_task" name="incident_task" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">b78c0aa447d7bdd0d54c2eee316d439c</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident_task" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">f78c0aa447d7bdd0d54c2eee316d43f3</sys_ui_section>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 21:11:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 21:11:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b8c0aa447d7bdd0d54c2eee316d43f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident_task" name="incident_task" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">b78c0aa447d7bdd0d54c2eee316d439c</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="incident_task" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">f78c0aa447d7bdd0d54c2eee316d43f7</sys_ui_section>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 21:11:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>incident_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 21:11:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b78c0aa447d7bdd0d54c2eee316d439c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b78c0aa447d7bdd0d54c2eee316d439c</sys_update_name>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 21:11:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Next Cool Themes 0" name="workspace-next-cool-themes-0">d61942601193bdd0b31d5a4bd2ba4130</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

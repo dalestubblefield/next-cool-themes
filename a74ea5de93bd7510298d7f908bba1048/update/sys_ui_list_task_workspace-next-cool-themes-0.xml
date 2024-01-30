@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="task" version="2" view="workspace-next-cool-themes-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">04290e604793bdd0d54c2eee316d4356</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 20:56:39</sys_created_on>
+            <sys_id>84290e604793bdd0d54c2eee316d4357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 20:56:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">04290e604793bdd0d54c2eee316d4356</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 20:56:39</sys_created_on>
+            <sys_id>8c290e604793bdd0d54c2eee316d4357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 20:56:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">04290e604793bdd0d54c2eee316d4356</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 20:56:39</sys_created_on>
+            <sys_id>80290e604793bdd0d54c2eee316d4358</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 20:56:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">04290e604793bdd0d54c2eee316d4356</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 20:56:39</sys_created_on>
+            <sys_id>84290e604793bdd0d54c2eee316d4358</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 20:56:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">04290e604793bdd0d54c2eee316d4356</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 20:56:39</sys_created_on>
+            <sys_id>88290e604793bdd0d54c2eee316d4358</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 20:56:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="d61942601193bdd0b31d5a4bd2ba4130">04290e604793bdd0d54c2eee316d4356</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 20:56:39</sys_created_on>
+            <sys_id>8c290e604793bdd0d54c2eee316d4358</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 20:56:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>dale.stubblefield</sys_created_by>
+            <sys_created_on>2023-12-20 20:56:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04290e604793bdd0d54c2eee316d4356</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>task</sys_name>
+            <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+            <sys_update_name>sys_ui_list_task_workspace-next-cool-themes-0</sys_update_name>
+            <sys_updated_by>dale.stubblefield</sys_updated_by>
+            <sys_updated_on>2023-12-20 20:56:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Next Cool Themes 0" name="workspace-next-cool-themes-0">d61942601193bdd0b31d5a4bd2ba4130</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

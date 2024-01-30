@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-next-cool-themes-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-20 20:56:34</sys_created_on>
+        <sys_id>d61942601193bdd0b31d5a4bd2ba4130</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Next Cool Themes 0</sys_name>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_ui_view_d61942601193bdd0b31d5a4bd2ba4130</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2023-12-20 20:56:34</sys_updated_on>
+        <title>Workspace Next Cool Themes 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
