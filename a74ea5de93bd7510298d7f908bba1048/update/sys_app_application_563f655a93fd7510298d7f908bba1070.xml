@@ -7,14 +7,14 @@
         <hint/>
         <name/>
         <order>40</order>
-        <roles>admin</roles>
+        <roles>snc_internal</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2023-10-12 15:58:49</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>563f655a93fd7510298d7f908bba1070</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Next Cool Themes</sys_name>
         <sys_overrides/>
         <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
         <sys_update_name>sys_app_application_563f655a93fd7510298d7f908bba1070</sys_update_name>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2023-10-12 16:01:25</sys_updated_on>
+        <sys_updated_on>2023-12-21 19:02:31</sys_updated_on>
         <title>Next Cool Themes</title>
         <view_name/>
     </sys_app_application>

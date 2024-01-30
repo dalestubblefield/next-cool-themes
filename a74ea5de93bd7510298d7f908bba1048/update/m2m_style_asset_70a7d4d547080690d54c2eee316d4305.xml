@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_style_asset">
+    <m2m_style_asset action="INSERT_OR_UPDATE">
+        <asset display_value="LatoSNJ-MediumItalic">f19a856b771220104fdc5ed9991061aa</asset>
+        <properties>{
+  "font-style": "italic",
+  "font-weight": "600"
+}</properties>
+        <style display_value="Typography">78a794d547080690d54c2eee316d43c6</style>
+        <sys_class_name>m2m_style_asset</sys_class_name>
+        <sys_created_by>dale</sys_created_by>
+        <sys_created_on>2024-01-29 03:23:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>70a7d4d547080690d54c2eee316d4305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>m2m_style_asset_70a7d4d547080690d54c2eee316d4305</sys_update_name>
+        <sys_updated_by>dale</sys_updated_by>
+        <sys_updated_on>2024-01-29 03:23:22</sys_updated_on>
+    </m2m_style_asset>
+</record_update>

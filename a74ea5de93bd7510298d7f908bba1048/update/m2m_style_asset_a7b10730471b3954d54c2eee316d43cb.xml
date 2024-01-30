@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_style_asset">
     <m2m_style_asset action="INSERT_OR_UPDATE">
-        <asset display_value="polaris_header_logo">0850a525073220105fca5d1aead30038</asset>
-        <properties>{&#13;
-  "position": "header_logo"&#13;
-}</properties>
-        <style display_value="Imagery (DaleNow)">005cc7c1470b7558d54c2eee316d437a</style>
+        <asset display_value="now-next-experience-logo-pink-now">47588f38471b3954d54c2eee316d43b1</asset>
+        <properties>{ "position": "header_logo" }</properties>
+        <style display_value="Pink">6b1a59a4471b79d0d54c2eee316d43a4</style>
         <sys_class_name>m2m_style_asset</sys_class_name>
         <sys_created_by>dale.stubblefield</sys_created_by>
-        <sys_created_on>2023-12-10 04:51:16</sys_created_on>
+        <sys_created_on>2023-12-21 19:43:34</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>094c038547c77558d54c2eee316d4366</sys_id>
+        <sys_id>a7b10730471b3954d54c2eee316d43cb</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
         <sys_policy/>
         <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
-        <sys_update_name>m2m_style_asset_094c038547c77558d54c2eee316d4366</sys_update_name>
+        <sys_update_name>m2m_style_asset_a7b10730471b3954d54c2eee316d43cb</sys_update_name>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2023-12-21 21:03:49</sys_updated_on>
+        <sys_updated_on>2023-12-21 20:11:48</sys_updated_on>
     </m2m_style_asset>
 </record_update>

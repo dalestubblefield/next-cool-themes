@@ -1,21 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
     <sys_ux_theme_asset action="INSERT_OR_UPDATE">
         <category>image</category>
-        <name>polaris_header_logo_dalenow</name>
+        <name>now-next-experience-logo</name>
         <sys_class_name>sys_ux_theme_asset</sys_class_name>
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2023-12-10 04:51:38</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a65c8bcd47c77558d54c2eee316d4382</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>polaris_header_logo_dalenow</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>now-next-experience-logo</sys_name>
         <sys_overrides/>
         <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
         <sys_policy/>
         <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
         <sys_update_name>sys_ux_theme_asset_a65c8bcd47c77558d54c2eee316d4382</sys_update_name>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2023-12-10 04:51:46</sys_updated_on>
+        <sys_updated_on>2023-12-21 21:01:08</sys_updated_on>
     </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <encryption_context/>
+        <file_name>servicenow-white-wasabi-O.svg</file_name>
+        <hash>32d800a227bea5336119e6c05248d1607512de363d2a0800f652d628a2bb59b4</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3538</size_bytes>
+        <size_compressed>1459</size_compressed>
+        <state>available</state>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-21 21:01:15</sys_created_on>
+        <sys_id>89c35b74475b3954d54c2eee316d4397</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-21 21:01:16</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>a65c8bcd47c77558d54c2eee316d4382</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="servicenow-white-wasabi-O.svg" sys_id="89c35b74475b3954d54c2eee316d4397">89c35b74475b3954d54c2eee316d4397</sys_attachment>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-21 21:01:15</sys_created_on>
+        <sys_id>c9c35b74475b3954d54c2eee316d4397</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>lVdNbxs3ED0nv8JQr+RqSS73I7FzcVv4oF5zD9auZUBNjEi184H+9773ZlayAddADUhcccnhzJs3b+jz/cPt2ePd9WF7sUp9tzrb3tzdbg8Xq5JXZ9/+2n3eX6y2h8P9u/X68fGxeSzNl6+369y27Ro7Vx/enu8P33c3Z4fv9zcXq8PNt8N63u8x/6bZH9qff97tdvHr37ubdzcPN5+/XF+/n3d3989nuObdL7/r7/0/2ph+vjCZ/4e1Pv86dr9h4/la/sHPW/h0fv/psD2bd5/2CAv+rc6uL1Z/lKmpYWi6OaZmCG0sTQlt08eu6UNq+o9D02/xIz2kvknbrikfE5bMbVNjyyXYlrBwwNjt8cFsDbnJfPv2zZuZi1osyLCqhRgLrNbLDg88OcCFaXmQLz9W6//0N9PK2AwzTSacNNLN0GE7Rs22mE3yjiN8mtuY4dnQjPhVNfawwGBTKLEGhBYrvU3wpA0FRrm9mtFdzJhKM0xO+DDUKaZYGDphw4mwzwCrxkR8eDZioXdFY99MmC2xhIrTu6DzsB5wE2wYplcdLWyWIF8FYgqpNnXm7spI4gjUkS6OMyaZTR5c4C3HkUCEit89n5fPETImlIHSlcHASJ7NpCgLfdsJykzC8B2pIgbgW7FyWjkm8EdIMM5aR6RolbYA4qywDVPuEI3wasT524QNlwyzB0gW7uRj3fj44+yPhHMLgRDpRnepknMxk39y1Kg5OjXHWStDUghFyWp1qhGWG4Iz7CqNr+WhghUhgbU7cDBOzYgi6XZAvASVTCybzrjQ883muP41o30heLMQDsJNvKoCshWwLFMGO5inDD9YRrLvSKqI2OoHsws2CwNggUj35LOjRYPDktHkmUqCLms6GrrkP9dnS13xVzUm+xYfzb/kRMi0tre1fbB0TAY0p0pYMuTWL/usfSn0eBcMiZegSg5VlWhIpcpJpTDzGsAjdS63RuNRXGHtk5wFAMKFy2EkXQqcGShOuQsDFKWbjdA8TYCAlJipe9UFVmusHqKTf4rUJ38xJ0HYB1tcg1uYqRQsxF7ZLUJhtPKUljGvEEna2UUOylhnKSHK0Sxbcl2Lvd7qbPBHp0Z0JV5yjvCDZRAkmT2FnadwElOSgZWdTCWYPnCUXLTBEpxc7fXiCS1VUrLi1oPxb3BiT/Nz+palW5xqVcc/ay6D0drIGSz+ujlm9zUKTMpvMmEfFaZp2CBwswuWIFR9xKL4Boor1kNnmfCiUeJKJQ76TcXnSCeZ+hYTVSnlSIFuDYFg+ifMrkbKUvLw1b2U8bzIlaAa9T4z2heBqSdgiGBxfrP1lc0xZujmxCiknNGqdVxqWFxS3fc+JStOpdHxEodNyfMinl7j1W8FWX0jX/Go11KRWmaPtfbRZBLXDeTdeoKCjdbkVTizAHLNVmtWVlIwKiwAUfMn72PqwkmYiiWouf4BaTDRQKaoW6Z3am5s74vAlWhoGiztqeoWQcwOUHYEDBurKsOmf9oVJdyqPyT3IcHwleJ/EaDsAGV28MFIOemaNkg4q8U1Cx+lTT2ux4IKvLwdJ+V2kuK0UhxnyYIX5YaNfsAekq14gxmsbr2DL4ydFsYSiHkpvqzslNBFy12nHI2ywHPKcuSpd3VuuntmOrtpKqKMwUwxwYvmXqdKJZwWEXW17nUvg3rj0zGvOO8ylaT2gCDzpPIDXguYm+MTrxF4HlgbUrlJORz9ptIfae886I73lWz60TkX6pNdpoqOjvVNYa3bk3FK2uccN9xOEBjK+aiBkwPW69qbXF2rQzm6Wir7Rzl+kijyZFwEvLfLO/sAPTgJfnJyIumXQIx4EDBKWlZvOKL0Wjl3laWG3GyZj00qvV9/yo48m3CNLLos5S00lc8+VzXHdboj+wWKt05fvznZ/rFCmHDifH3LL/xH9uHtv4rV/E7SDQAA</data>
+        <length>1932</length>
+        <position>1</position>
+        <sys_attachment display_value="servicenow-white-wasabi-O.svg" sys_id="89c35b74475b3954d54c2eee316d4397">89c35b74475b3954d54c2eee316d4397</sys_attachment>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-12-21 21:01:15</sys_created_on>
+        <sys_id>4dc35b74475b3954d54c2eee316d4397</sys_id>
+    </sys_attachment_doc>
 </record_update>
