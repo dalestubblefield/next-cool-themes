@@ -3,14 +3,56 @@
         <name>SKO24</name>
         <style>{&#13;
   "base": {&#13;
-    "--now-color--neutral": "79,86,100",&#13;
-    "--now-color--primary": "79,82,189",&#13;
-    "--now-color--secondary": "79,82,189",&#13;
-    "--now-color_selection--primary": "0,123,88",&#13;
-    "--now-color_selection--secondary": "79,82,189",&#13;
-    "--now-color--interactive": "79,82,189",&#13;
-    "--now-color--link": "60,89,231",&#13;
-    "--now-color--focus": "60,89,231",&#13;
+    &#13;
+    "--now-color_brand--primary": "0,120,152",&#13;
+    "--now-color_brand--secondary": "0,49,77",&#13;
+    "--now-color_brand--neutral": "79,86,100",&#13;
+    "--sko24-green": "0, 178, 56",&#13;
+                    &#13;
+    "--now-color--neutral": "--now-color_brand--neutral",&#13;
+    "--now-color--primary": "--now-color_brand--primary",&#13;
+    "--now-color--secondary": "--now-color_brand--secondary",&#13;
+      &#13;
+    "--read-only-gray": "228, 230, 234",&#13;
+      &#13;
+    "--brand-0": "200, 252, 255",&#13;
+    "--brand-1": "161,204,216",&#13;
+    "--brand-2": "162, 195, 221",&#13;
+    "--brand-3": "109, 141, 166",&#13;
+    "--brand-4": "109, 141, 166",&#13;
+    "--brand-5": "58, 91, 114",&#13;
+    "--brand-6": "58, 91, 114",&#13;
+    "--brand-7": "58, 91, 114",&#13;
+    "--brand-8": "3, 45, 66",&#13;
+    "--brand-9": "3, 45, 66",&#13;
+    "--brand-10": "3, 45, 66",&#13;
+    &#13;
+    "--now-chrome-tabs--background-color": "--brand-1",&#13;
+&#13;
+    "--now-color_background--tertiary": "--read-only-gray",&#13;
+    "--now-color_border--primary": "--now-color_brand--primary",&#13;
+    "--now-color_chrome--brand": "--brand-5",      &#13;
+    "--now-color_chrome--brand-0": "--brand-0",&#13;
+    "--now-color_chrome--brand-1": "--brand-1",&#13;
+    "--now-color_chrome--brand-2": "--brand-2",&#13;
+    "--now-color_chrome--brand-3": "--brand-3",&#13;
+    "--now-color_chrome--brand-4": "--brand-4",&#13;
+    "--now-color_chrome--brand-5": "--brand-5",&#13;
+    "--now-color_chrome--brand-6": "--brand-6",&#13;
+    "--now-color_chrome--brand-7": "--brand-7",&#13;
+    "--now-color_chrome--brand-8": "--brand-8",&#13;
+    "--now-color_chrome--brand-9": "--brand-9",&#13;
+    "--now-color_chrome--brand-10": "--brand-10",&#13;
+    "--now-color_focus-ring": "--now-color_brand--primary",&#13;
+    "--now-color_selection--primary": "--now-color_brand--primary",&#13;
+    "--now-color_selection--primary-1": "--now-color_chrome--brand-2",            &#13;
+    "--now-color_selection--primary-2": "--now-color_chrome--brand-4",      &#13;
+    "--now-color_selection--primary-3": "--now-color_chrome--brand-10",&#13;
+    "--now-color_selection--primary-4": "--now-color_chrome--brand-10",&#13;
+    "--now-color_selection--secondary": "--now-color--primary",&#13;
+    "--now-color--interactive": "--now-color--primary",&#13;
+    "--now-color--link": "--now-color_brand--primary",&#13;
+    "--now-color--focus": "--now-color_brand--primary",&#13;
     "--now-color_alert--critical": "255,51,75",&#13;
     "--now-color_alert--high": "253,151,0",&#13;
     "--now-color_alert--warning": "240,224,0",&#13;
@@ -18,8 +60,10 @@
     "--now-color_alert--info": "56,170,244",&#13;
     "--now-color_alert--positive": "81,174,0",&#13;
     "--now-color_alert--low": "150,152,164",&#13;
-    "--now-color_surface--brand": "79,82,189",&#13;
-    "--now-color_chrome--brand": "48,47,75",&#13;
+    "--now-color_background--primary": "255,255,255",&#13;
+    "--now-color_surface--brand": "--now-color--primary",&#13;
+    "--now-color_surface--brand-1": "246, 255, 255",&#13;
+    "--now-color_surface--brand-2": "--now-color--neutral-2",&#13;
     "--now-color_chrome--divider": "42,41,65",&#13;
     "--now-color_grouped--blue": "103,211,230",&#13;
     "--now-color_grouped--brown": "211,166,117",&#13;
@@ -32,14 +76,36 @@
     "--now-color_grouped--purple": "189,122,234",&#13;
     "--now-color_grouped--teal": "81,194,194",&#13;
     "--now-color_grouped--yellow": "255,198,81",&#13;
-    "--now-color--primary-0": "217,255,255",&#13;
+    "--now-color_text--primary": "21,25,32",&#13;
+      &#13;
+    "--now-color--primary-0": "--brand-1",&#13;
     "--now-color--primary-1": "0,120,152",&#13;
     "--now-color--primary-2": "0,71,101",&#13;
     "--now-color--primary-3": "0,49,77",&#13;
-    "--now-color--secondary-0": "217,255,255",&#13;
-    "--now-color--secondary-1": "0,120,152",&#13;
-    "--now-color--secondary-2": "0,71,101",&#13;
-    "--now-color--secondary-3": "0,49,77"&#13;
+&#13;
+    "--now-color--secondary-0": "--now-color--primary-0",&#13;
+    "--now-color--secondary-1": "--now-color--primary-1",&#13;
+    "--now-color--secondary-2": "--now-color--primary-2",&#13;
+    "--now-color--secondary-3": "--now-color--primary-3",&#13;
+&#13;
+    "--now-button--primary--background-color": "--now-color_brand--primary",&#13;
+    "--now-button--primary--background-color--active": "--now-color--primary-3",&#13;
+    "--now-button--primary--background-color--hover": "--now-color--primary-2",&#13;
+&#13;
+    "--now-login--background-color": "--now-color_chrome--brand-10",&#13;
+    "--now-login_mountain--primary--fill-color": "--now-color_chrome--brand-10",&#13;
+    "--now-login_mountain--secondary--fill-color" : "--now-color_chrome--brand-1",&#13;
+    "--now-login_mountain--secondary--stroke-color": "--now-color_chrome--brand-3",&#13;
+&#13;
+    "--now-tabs--background-color": "--now-color_brand--primary",    &#13;
+    "--now-tabs--color": "--now-color_chrome--brand-10",      &#13;
+    "--now-tabs--color--active": "--now-color_selection--primary-4",&#13;
+    "--now-tabs--color--hover": "--now-color_selection--primary-3",&#13;
+    "--now-tabs--color--selected": "--now-color_selection--primary-2",&#13;
+      &#13;
+    "--now-toolbar-nav--background-color-start": "--now-color_brand--primary",&#13;
+    "--now-toolbar-nav--background-color-end": "--sko24-green"&#13;
+&#13;
   },&#13;
   "properties": {&#13;
     "--now-container--border-color": "--now-color_border--tertiary",&#13;
@@ -295,9 +361,6 @@
     "--now-button--primary_high-contrast--color": "--now-color--primary-3",&#13;
     "--now-button--primary_high-contrast--color--active": "--now-color_text--primary",&#13;
     "--now-button--primary_high-contrast--color--hover": "--now-color_text--primary",&#13;
-    "--now-button--primary--background-color": "--now-color--primary-1",&#13;
-    "--now-button--primary--background-color--active": "--now-color--primary-3",&#13;
-    "--now-button--primary--background-color--hover": "--now-color--primary-2",&#13;
     "--now-button--primary--border-color": "--now-button--primary--color",&#13;
     "--now-button--primary--border-color--active": "--now-button--primary--border-color",&#13;
     "--now-button--primary--border-color--hover": "--now-button--primary--border-color",&#13;
@@ -978,7 +1041,7 @@
     "--now-tabs--color": "--now-color_text--primary",&#13;
     "--now-tabs--color--active": "--now-color_selection--primary-4",&#13;
     "--now-tabs--color--hover": "--now-color_selection--primary-3",&#13;
-    "--now-tabs--color--selected": "--now-color_selection--primary-2",&#13;
+    &#13;
     "--now-template-card-omnichannel--color": "--now-color_text--tertiary",&#13;
     "--now-template-message-empty-state_content--color": "--now-display-type--tertiary--color",&#13;
     "--now-template-message-empty-state_heading--color": "--now-display-type--primary--color",&#13;
@@ -995,8 +1058,7 @@
     "--now-toggle_track--background-color--checked": "--now-color--interactive-2",&#13;
     "--now-toggle_track--border-color": "--now-color_border--primary",&#13;
     "--now-toggle_track--border-color--checked": "--now-color--interactive-4",&#13;
-    "--now-toolbar-nav--background-color-start": "--now-color_brand--primary",&#13;
-    "--now-toolbar-nav--background-color-end": "--now-color--neutral-19",&#13;
+&#13;
     "--now-tooltip--background-color": "--now-color--neutral-19",&#13;
     "--now-tooltip--border-color": "--now-menu--border-color",&#13;
     "--now-tooltip--color": "--now-color--neutral-0",&#13;
@@ -1247,16 +1309,7 @@
     "--now-color_presence--away": "226,121,24",&#13;
     "--now-color_presence--offline": "146,148,160",&#13;
     "--now-color_focus-ring": "--now-color--focus-2",&#13;
-    "--now-color_focus-ring_shadow": "--now-color_background--primary",&#13;
-    "--now-color_brand--neutral": "79,86,100",&#13;
-    "--now-color_brand--primary": "0,120,152",&#13;
-    "--now-color_brand--secondary": "0, 178, 56",&#13;
-    "--now-color--neutral-2": "161,204,216",&#13;
-    "--now-color--neutral-19": "0,178,56",&#13;
-    "--now-color_surface--brand-1": "246, 255, 255",&#13;
-    "--now-color_surface--brand-2": "--now-color--neutral-2",&#13;
-    "--now-button--primary--background-color": "--now-color_brand--primary",&#13;
-       "--now-button--primary--background-color--hover": "--now-color--primary-2"&#13;
+    "--now-color_focus-ring_shadow": "--now-color_background--primary"&#13;
   }&#13;
 }</style>
         <sys_class_name>sys_ux_style</sys_class_name>
@@ -1265,7 +1318,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6d05949d47c40690d54c2eee316d437d</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>72</sys_mod_count>
         <sys_name>SKO24</sys_name>
         <sys_overrides/>
         <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
@@ -1273,7 +1326,7 @@
         <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
         <sys_update_name>sys_ux_style_6d05949d47c40690d54c2eee316d437d</sys_update_name>
         <sys_updated_by>dale</sys_updated_by>
-        <sys_updated_on>2024-01-29 04:03:38</sys_updated_on>
+        <sys_updated_on>2024-01-31 14:19:37</sys_updated_on>
         <type>variant</type>
     </sys_ux_style>
 </record_update>
