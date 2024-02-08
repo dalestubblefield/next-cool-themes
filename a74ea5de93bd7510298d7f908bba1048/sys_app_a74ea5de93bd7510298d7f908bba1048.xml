@@ -31,16 +31,16 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2023-10-12 15:54:40</sys_created_on>
         <sys_id>a74ea5de93bd7510298d7f908bba1048</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2023-12-20 20:55:39</sys_updated_on>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>dale</sys_updated_by>
+        <sys_updated_on>2024-02-08 22:52:39</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
         <x_snc_devtools_documentation_url/>
         <x_snc_devtools_maintainer/>
         <x_snc_devtools_maintainer_email/>
