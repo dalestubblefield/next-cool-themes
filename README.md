@@ -2,11 +2,15 @@
 
 *Sample themes for Next Experience*
 
+## Pre-install
+
+1. Fork the repository.
+
 ## Installation
 *Based on Product Docs: [Import application or application-customization from source control](https://docs.servicenow.com/csh?topicname=t_ImportAppFromSourceControl.html&version=latest)*
 1. Go to **All** >> **System Applications** >> **Studio**.
 2. Click **Import from Source Control**.
-   * **URL:** `https://github.com/dalestubblefield/next-cool-themes.git`
+   * **URL:** `https://github.com/<YOUR-GITHUB-USER-NAME>/next-cool-themes.git`
    * **Credential:** (*You'll need to setup a GitHub credential. Here are some instructions: [https://github.com/dalestubblefield/next-cool-themes/blob/main/github-cred-setup.md](https://github.com/dalestubblefield/next-cool-themes/blob/main/github-cred-setup.md)*)
 3. Click **Import**.
 
