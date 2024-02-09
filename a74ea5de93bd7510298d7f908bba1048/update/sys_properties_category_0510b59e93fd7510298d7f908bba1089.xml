@@ -5,25 +5,26 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2023-10-12 16:02:31</sys_created_on>
         <sys_id>0510b59e93fd7510298d7f908bba1089</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Next Cool Themes</sys_name>
         <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
         <sys_policy/>
         <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
         <sys_update_name>sys_properties_category_0510b59e93fd7510298d7f908bba1089</sys_update_name>
-        <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2023-10-12 16:12:27</sys_updated_on>
-        <title><![CDATA[<p><span style="font-size: 12pt;"><strong>If property below does not exist....</strong></span></p>
-<p><span style="font-size: 12pt;"><strong>(1) Create the Property</strong></span></p>
-<ul style="list-style-position: inside;"><li style="font-size: 10pt;"><span style="font-size: 10pt;">Switch to Global</span></li><li style="font-size: 10pt;"><span style="font-size: 10pt;">Go to &#39;sys_properties.list&#39;.</span></li><li style="font-size: 10pt;"><span style="font-size: 10pt;">Create a new record:</span>
-<ul style="list-style-position: inside;"><li style="font-size: 10pt;"><span style="font-size: 10pt;"><strong>Name:</strong> <span style="font-family: terminal, monaco;">glide.ui.polaris.theme.custom</span></span></li><li style="font-size: 10pt;"><span style="font-size: 10pt;"><strong>Description:</strong> Default Theme for the Next Experience</span></li><li style="font-size: 10pt;"><span style="font-size: 10pt;"><strong>Type:</strong> String</span></li><li style="font-size: 10pt;"><span style="font-size: 10pt;"><strong>Value:</strong> <span style="font-family: terminal, monaco;">31bf91ae07203010e03948f78ad30095</span></span></li></ul>
-</li><li style="font-size: 10pt;"><span style="font-size: 10pt;">Save.</span></li></ul>
-<p><span style="font-size: 12pt;"><strong>(2) Link the new Property to this category page</strong></span></p>
-<ul style="list-style-position: inside;"><li style="font-size: 10pt;"><span style="font-size: 10pt;">Go to Category Property [sys_properties_category_m2m]</span></li><li style="font-size: 10pt;"><span style="font-size: 10pt;">Create a new record</span>
-<ul style="list-style-position: inside;"><li style="font-size: 10pt;"><span style="font-size: 10pt;"><strong>Category:</strong> Next Cool Themes</span></li><li style="font-size: 10pt;"><span style="font-size: 10pt;"><strong>Order:</strong> 1</span></li><li style="font-size: 10pt;"><span style="font-size: 10pt;"><strong>Property:</strong> glide.ui.polaris.theme.custom</span></li></ul>
-</li><li style="font-size: 10pt;"><span style="font-size: 10pt;">Save</span></li></ul>
-<p><span style="font-size: 12pt;"><strong>Property should now appear on this page for you to edit. </strong></span></p>
-<p>This property determines which Theme is displayed to the users as the default. </p>]]></title>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 13:48:51</sys_updated_on>
+        <title><![CDATA[<p> </p>
+<h2>1. See if the property exists</h2>
+<p><code>glide.ui.polaris.theme.custom</code></p>
+<h2>2. If it does not, create it like this:</h2>
+<ol><li>Switch to Global</li><li>Go to &#39;sys_properties.list&#39;.</li><li>Create a new record:
+<ul><li><strong>Name:</strong> <code>glide.ui.polaris.theme.custom</code></li><li><strong>Description:</strong> The default UX Theme [sys_ux_theme] used by the system. There can be only one.</li><li><strong>Type:</strong> String</li><li><strong>Value:</strong> 9446b3de4788ca10d54c2eee316d43a2</li></ul>
+</li><li>Save.</li></ol>
+<h2>3. Next, link the new Property to this category page like this:</h2>
+<ol><li>Go to Category Property [sys_properties_category_m2m]</li><li>Create a new record
+<ul><li><strong>Category:</strong> GlideFast</li><li><strong>Order:</strong> 1</li><li><strong>Property:</strong> glide.ui.polaris.theme.custom</li></ul>
+</li><li>Save</li></ol>
+<p>Finally, the property should now appear on this page for you to edit. This property determines which Theme is displayed to the users as the default.</p>]]></title>
     </sys_properties_category>
     <sys_translated_text action="delete_multiple" query="documentkey=0510b59e93fd7510298d7f908bba1089"/>
 </record_update>
