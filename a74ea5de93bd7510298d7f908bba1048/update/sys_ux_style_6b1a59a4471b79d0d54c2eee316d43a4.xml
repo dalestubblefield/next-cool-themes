@@ -265,7 +265,12 @@
         "--now-color_border--tertiary": "217,213,214",&#13;
 &#13;
         "--now-color_focus-ring_shadow": "255,255,255",&#13;
-        "--now-color_focus-ring": "66,98,254"&#13;
+        "--now-color_focus-ring": "66,98,254",&#13;
+        &#13;
+        "--now-login--background-color": "--now-color_chrome--brand-10",&#13;
+	    "--now-login_mountain--primary--fill-color": "--now-color_chrome--brand-10",&#13;
+    	"--now-login_mountain--secondary--fill-color" : "--now-color_chrome--brand-1",&#13;
+	    "--now-login_mountain--secondary--stroke-color": "--now-color_chrome--brand-3"&#13;
    },&#13;
   "properties": {}&#13;
 }</style>
@@ -275,15 +280,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6b1a59a4471b79d0d54c2eee316d43a4</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Pink</sys_name>
         <sys_overrides/>
         <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
         <sys_policy/>
         <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
         <sys_update_name>sys_ux_style_6b1a59a4471b79d0d54c2eee316d43a4</sys_update_name>
-        <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2023-12-21 19:41:05</sys_updated_on>
+        <sys_updated_by>starlord</sys_updated_by>
+        <sys_updated_on>2024-02-19 19:44:38</sys_updated_on>
         <type>variant</type>
     </sys_ux_style>
 </record_update>

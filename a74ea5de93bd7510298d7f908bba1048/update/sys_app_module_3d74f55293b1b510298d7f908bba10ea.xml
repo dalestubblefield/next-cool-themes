@@ -4,8 +4,9 @@
         <application display_value="Next Cool Themes">563f655a93fd7510298d7f908bba1070</application>
         <assessment/>
         <device_type/>
-        <filter table="sys_ux_theme">sys_scope=a74ea5de93bd7510298d7f908bba1048^ORsys_scope=d7487d7598251972e4da6cebf1abfb2d^EQ<item display_table="sys_scope" display_value="Next Cool Themes" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="false" value="a74ea5de93bd7510298d7f908bba1048"/>
+        <filter table="sys_ux_theme">sys_scope=a74ea5de93bd7510298d7f908bba1048^ORsys_scope=d7487d7598251972e4da6cebf1abfb2d^ORnameLIKETheme Builder Theme^EQ<item display_table="sys_scope" display_value="Next Cool Themes" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="false" value="a74ea5de93bd7510298d7f908bba1048"/>
             <item display_table="sys_scope" display_value="sn-themes" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="true" value="d7487d7598251972e4da6cebf1abfb2d"/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="LIKE" or="true" value="Theme Builder Theme"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>
@@ -20,6 +21,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
+        <require_confirmation>true</require_confirmation>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>dale.stubblefield</sys_created_by>
@@ -27,15 +29,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3d74f55293b1b510298d7f908bba10ea</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Themes</sys_name>
         <sys_overrides/>
         <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
         <sys_policy/>
         <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
         <sys_update_name>sys_app_module_3d74f55293b1b510298d7f908bba10ea</sys_update_name>
-        <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2023-12-21 20:10:56</sys_updated_on>
+        <sys_updated_by>starlord</sys_updated_by>
+        <sys_updated_on>2024-02-19 16:12:30</sys_updated_on>
         <timeline_page/>
         <title>Themes</title>
         <uncancelable>false</uncancelable>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="Next Cool Themes">0510b59e93fd7510298d7f908bba1089</category>
+        <order>1</order>
+        <property display_value="glide.ui.polaris.theme.custom" name="glide.ui.polaris.theme.custom">11ff2d5e93fd7510298d7f908bba109e</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-10-12 16:02:40</sys_created_on>
+        <sys_id>7f00359e93fd7510298d7f908bba10f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.polaris.theme.custom.Next Cool Themes</sys_name>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_7f00359e93fd7510298d7f908bba10f2</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2023-10-12 16:02:40</sys_updated_on>
+    </sys_properties_category_m2m>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</application>
+        <file_path/>
+        <instance_id>1dbee28c1b41bd186a85eb9b2d4bcbeb</instance_id>
+        <instance_name>dalenowdevdemo</instance_name>
+        <name>sys_properties_category_m2m_7f00359e93fd7510298d7f908bba10f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Next Cool Themes">0510b59e93fd7510298d7f908bba1089</category>
+        <order>1</order>
+        <property display_value="glide.ui.polaris.theme.custom" name="glide.ui.polaris.theme.custom">11ff2d5e93fd7510298d7f908bba109e</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2023-10-12 16:02:40</sys_created_on>
+        <sys_id>7f00359e93fd7510298d7f908bba10f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.polaris.theme.custom.Next Cool Themes</sys_name>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_7f00359e93fd7510298d7f908bba10f2</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2023-10-12 16:02:40</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>]]></payload>
+        <payload_hash>-2085889754</payload_hash>
+        <record_name>glide.ui.polaris.theme.custom.Next Cool Themes</record_name>
+        <reverted_from/>
+        <source>d5bd2b3bc383f11040d9300f050131fb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-18 20:20:44</sys_created_on>
+        <sys_id>12bd2f3bc383f11040d9300f0501318d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c7e968a280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-18 20:20:44</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>debd2f3bc083f110c91ffeebf5d9418c</update_guid>
+        <update_guid_history>debd2f3bc083f110c91ffeebf5d9418c:-2085889754</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2024-02-19 19:58:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>fdce6431c8c442e1aec9c036c3979e01</sys_id>
+        <sys_metadata>7f00359e93fd7510298d7f908bba10f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.polaris.theme.custom.Next Cool Themes</sys_name>
+        <sys_package display_value="Next Cool Themes" source="x_snc_next_cool_th">a74ea5de93bd7510298d7f908bba1048</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Next Cool Themes">a74ea5de93bd7510298d7f908bba1048</sys_scope>
+        <sys_scope_delete display_value="">42887c305dca4fc6a38927144a3db1c4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_7f00359e93fd7510298d7f908bba10f2</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_7f00359e93fd7510298d7f908bba10f2">12bd2f3bc383f11040d9300f0501318d</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2024-02-19 19:58:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
